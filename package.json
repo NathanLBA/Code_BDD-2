@@ -1,0 +1,13 @@
+{
+  "name": "crud-firestore-alunos",
+  "version": "1.0.0",
+  "description": "CRUD simples de alunos com Firebase Firestore",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
